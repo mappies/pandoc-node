@@ -1,2 +1,2 @@
 # pandoc-node
-Pandoc with nodejs
+Pandoc with nodejs and pandoc-filter package
