@@ -1,2 +1,2 @@
 # pandoc-node
-Pandoc with nodejs and pandoc-filter package
+Pandoc with nodejs, aws-cli, coreutils, jq and pandoc-filter package
